@@ -1,0 +1,144 @@
+.background {
+    background-color: #1b4f78;
+    width: 970px;
+    border-bottom: 2px solid black;
+    padding-top: 0px;
+}
+
+.python {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.topright {
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 350px;
+    margin-top: 0px;
+    padding-left: 60px;
+    padding-bottom: 30px;
+    padding-top: 0px;
+}
+.line {
+    color: black;
+}
+
+.textsize {
+    text-align: right;
+    margin-right: 20px;
+}
+a {
+    color: yellow;
+}
+
+button {
+    color: white;
+    border-radius: 7px;
+    vertical-align: top;
+    background-color: #1b4f78;
+}
+
+.searchbar {
+    background: #444444;
+    padding:20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+}
+.bar {
+    background-color: #3c7daf;
+    border: 2px black;
+    text-align: center;
+    word-spacing: 20px;
+    width: 800px;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+
+.bar1 {
+    display: inline-block;
+    color: white;
+    font-size: 25px;  
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 0px;
+}
+
+.sidebar {
+    display: inline-block;
+    color: white;
+    text-decoration: underline;
+    padding: 50px;
+    text-align: center;
+    margin-left: 40px;
+    padding-top: 30px;
+}
+
+.info1 {
+    display: inline-block;
+    color: white;
+    vertical-align: top;
+    width: 600px;
+    text-align: center;
+    padding: 10px;  
+    padding-top: 20px;
+}
+.yellowtext {
+    color: yellow;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.info2 {
+    width: 970px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.pypack {
+    color: #a9cbe8;
+}
+ul {
+    list-style-type: square;
+}
+
+div.l1 li.li2 a {
+  color: #a9cbe8;
+}
+
+
+.title {
+    font-size: 20px;
+}
+
+.gs {
+    width: 400px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    border-top: 6px solid #6aa6d7;
+    margin-left: 20px;
+}
+
+.app {
+    width: 400px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    border-top: 6px solid #6aa6d7;
+    margin-left: 20px;
+}
+
+.info3 {
+    text-align: center;
+    background-color: #1e5c8d;
+    color: #6faada;
+    width: 970px;
+}
+
+.moreinfo {
+    padding: 15px;
+    font-size: 20px;
+    width: 970px;
+}
